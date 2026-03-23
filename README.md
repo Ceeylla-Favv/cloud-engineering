@@ -1,4 +1,4 @@
-# Hi, I'm Priscilla 
+# Hi, I'm Priscilla 👋🏽
 
 I'm currently transitioning from Backend Development into Cloud Engineering.
 My goal is to be one of the most prominent Cloud Support Engineer that has ever graced this planet.
