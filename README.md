@@ -14,7 +14,7 @@ This includes:
 - Making mistakes and figuring them out.
 - Building my understanding step by step.
 
-## Skills I'm Building
+## ⚙️ Skills I'm Building
 - Amazon Web Services (AWS) - EC2, S3, VPC, IAM
 - Linux server administration - navigating servers and managing environments
 - Infrastructure as Code - Terraform
