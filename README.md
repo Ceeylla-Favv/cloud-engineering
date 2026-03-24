@@ -22,4 +22,6 @@ This includes:
 - Automation - CI/CD pipelines with GitHub Actions
 - Scripting - Python and Bash
 
+## Featured Projects
+Coming soon...
 
